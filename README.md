@@ -25,3 +25,7 @@ https://prog-8.com/docs/python-env
 ## pythonのバージョン切り替える際、問題ある場合下記を参照
 https://blog.serverworks.co.jp/2021/05/12/233520
 
+## MACでpythonのCGI配置
+https://www.runoob.com/python/python-cgi.html
+macの場合、「ScriptAlias /cgi-bin/ /var/www/cgi-bin/」の設定が必要ないです。
+
