@@ -12,9 +12,11 @@ Bourne Again Shell（/bin/bash）
 C Shell（/usr/bin/csh）
 K Shell（/usr/bin/ksh）
 Shell for Root（/sbin/sh）
+zsh (/bin/zsh)
 
-## bashとは
-Shell Scriptの一つ
+## zshとは
+Shell の一つです 
+https://support.apple.com/ja-jp/HT208050
 
 
 ## pythonインストール：
