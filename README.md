@@ -20,3 +20,6 @@ Shell Scriptの一つ
 ## pythonインストール：
 https://prog-8.com/docs/python-env
 
+## pythonのバージョン切り替える際、問題ある場合下記を参照
+https://blog.serverworks.co.jp/2021/05/12/233520
+
