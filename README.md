@@ -25,7 +25,9 @@ https://prog-8.com/docs/python-env
 ## pythonのバージョン切り替える際、問題ある場合下記を参照
 https://blog.serverworks.co.jp/2021/05/12/233520
 
-## MACでpythonのCGI配置
+## MacのApacheでPythonをCGIとして実行する方法
 https://www.runoob.com/python/python-cgi.html
+https://qiita.com/TSKY/items/b041de0572e6586c889c
 macの場合、「ScriptAlias /cgi-bin/ /var/www/cgi-bin/」の設定が必要ないです。
-
+macの場合、CGIフォルダーは下記となります
+/Library/WebServer/CGI-Executables
