@@ -29,5 +29,7 @@ https://blog.serverworks.co.jp/2021/05/12/233520
 https://www.runoob.com/python/python-cgi.html
 https://qiita.com/TSKY/items/b041de0572e6586c889c
 macの場合、「ScriptAlias /cgi-bin/ /var/www/cgi-bin/」の設定が必要ないです。
-macの場合、CGIフォルダーは下記となります
+### macの場合、CGIフォルダーは下記となります
 /Library/WebServer/CGI-Executables
+### macの場合、webなどのフォルダーは下記となります
+/Library/WebServer/Documents
