@@ -33,3 +33,5 @@ macの場合、「ScriptAlias /cgi-bin/ /var/www/cgi-bin/」の設定が必要�
 /Library/WebServer/CGI-Executables
 ### macの場合、webなどのフォルダーは下記となります
 /Library/WebServer/Documents
+### mysqlインストール
+https://prog-8.com/docs/mysql-env
