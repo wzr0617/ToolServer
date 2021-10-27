@@ -35,6 +35,7 @@ macの場合、「ScriptAlias /cgi-bin/ /var/www/cgi-bin/」の設定が必要�
 /Library/WebServer/Documents
 ## mysqlインストール
 https://prog-8.com/docs/mysql-env
-## mysqlclient(pythonでmysqlを操作するもの)
-https://qiita.com/takepan/items/e01dfd968faffbe2ebb2
-
+## pipをインストール
+https://qiita.com/ohbashunsuke/items/e7c673db606a6dced8a6
+## mysql-connector-pythonをインストール
+https://qiita.com/valzer0/items/2f27ba98397fa7ff0d74
