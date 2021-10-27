@@ -38,4 +38,6 @@ https://prog-8.com/docs/mysql-env
 ## pipをインストール
 https://qiita.com/ohbashunsuke/items/e7c673db606a6dced8a6
 ## mysql-connector-pythonをインストール
+pip install mysql-connector-python
+## mysql-connector-pythonを使用mysqlを操作
 https://qiita.com/valzer0/items/2f27ba98397fa7ff0d74
