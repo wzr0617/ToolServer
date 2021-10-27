@@ -24,6 +24,7 @@ https://prog-8.com/docs/python-env
 
 ## pythonのバージョン切り替える際、問題ある場合下記を参照
 https://blog.serverworks.co.jp/2021/05/12/233520
+https://hitori-sekai.com/python/error-pyenv/
 
 ## MacのApacheでPythonをCGIとして実行する方法
 https://www.runoob.com/python/python-cgi.html
