@@ -42,6 +42,8 @@ brew services start mysql@5.7
 brew services stop mysql@5.7
 mysql --user=root --password
 exit;
+### mysqlのデータベースを作成
+https://prog-8.com/docs/mysql-database-setup
 
 ## pipをインストール
 https://qiita.com/ohbashunsuke/items/e7c673db606a6dced8a6
