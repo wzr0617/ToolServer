@@ -53,8 +53,9 @@ pip install mysql-connector-python
 https://qiita.com/valzer0/items/2f27ba98397fa7ff0d74
 
 ## djangoインストール
-git clone https://github.com/django/django.git
+python -m pip install Django
+https://www.runoob.com/django/django-install.html
 
-## django設定
-cd dgangoフォルダー
-sudo python setup.py install
+## djangoのプロジェクトを作成
+django-admin startproject MySite 
+
