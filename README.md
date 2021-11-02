@@ -52,4 +52,9 @@ pip install mysql-connector-python
 ## mysql-connector-pythonを使用mysqlを操作
 https://qiita.com/valzer0/items/2f27ba98397fa7ff0d74
 
+## djangoインストール
+git clone https://github.com/django/django.git
 
+## django設定
+cd dgangoフォルダー
+sudo python setup.py install
